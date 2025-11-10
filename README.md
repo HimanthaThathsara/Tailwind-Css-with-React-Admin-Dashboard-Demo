@@ -44,13 +44,13 @@
 
 - [ Overview](#-overview)
 - [ Features](#-features)
+- [ Demo](#-demo)
 - [ Project Structure](#-project-structure)
 - [ Getting Started](#-getting-started)
   - [ Installation](#-installation)
 - [ Project Roadmap](#-project-roadmap)
 - [ Contributing](#-contributing)
 - [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
 
 </details>
 <hr>
@@ -69,6 +69,12 @@
 - Reusable UI components: status cards, status badges, sidebar and data tables.
 - Example pages included: Dashboard, Generator, Battery, PowerSupply.
 - Small, easy-to-follow codebase intended for learning and quick customization.
+
+---
+
+## Demo
+
+https://github.com/user-attachments/assets/55dd25f3-932b-4288-aadd-01eb9521c24b
 
 ---
 
